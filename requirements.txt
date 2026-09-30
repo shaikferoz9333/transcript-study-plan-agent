@@ -1,0 +1,15 @@
+gradio
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-classic
+langchain-ollama
+langchain-groq
+langgraph
+chromadb
+pypdf
+requests
+python-dotenv
+ollama
